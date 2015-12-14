@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Check In</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="empty_fields">Please Username and Password field</string>
+    <string name="welcome">Welcome&#160;</string>
+    <string name="last_status">Last Status</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="checked_in">Checked In</string>
+    <string name="checked_out">Checked Out</string>
+    <string name="invalid_data">Invalid Username or Password</string>
+    <string name="problem_updating">Problem in Updating</string>
+</resources>
